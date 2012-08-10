@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=SiO2
+Comment=Sandy theme based on Elementary.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=SiO2
+MetacityTheme=SiO2
+IconTheme=elementary
+CursorTheme=DMZ-Black
+ButtonLayout=close:maximize
