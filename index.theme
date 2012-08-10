@@ -7,6 +7,6 @@ Encoding=UTF-8
 [X-GNOME-Metatheme]
 GtkTheme=SiO2
 MetacityTheme=SiO2
-IconTheme=elementary
+IconTheme=ubuntu-mono-dark
 CursorTheme=DMZ-Black
 ButtonLayout=close:maximize
